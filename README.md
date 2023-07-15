@@ -1,2 +1,2 @@
 # Calculator
-TIME IS PRECIOUS
+MATHEMATICAL CALCULATIONS, addition,multiplication,subtraction OR DIVISION
